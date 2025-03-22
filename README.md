@@ -1,1 +1,1 @@
-# "Hello guys! Before anything else, go to Twitter.com and create a new Twitter account. You need to memorize your username, password, and email. Then, create a .txt file containing this information, and convert the .txt file to a .json file."
+# 
