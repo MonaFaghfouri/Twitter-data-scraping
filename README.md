@@ -6,6 +6,7 @@ You should fill out the data.txt file using data from your active Twitter accoun
 # Second:
 Enter your specific keywords and the time range you want to extract data for, then run the code.
 ---
-
+# Third:
+Combine all .excel files into one consolidated .excel file, then execute the third script.
 
 
