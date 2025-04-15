@@ -8,5 +8,6 @@ Enter your specific keywords and the time range you want to extract data for, th
 ---
 # Third:
 Combine all .excel files into one consolidated .excel file, then execute the third script.
+---
 
 
